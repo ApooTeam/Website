@@ -658,7 +658,7 @@ input[type='checkbox'] {
 
 .navbar-custom .nav-item .nav-link:hover,
 .navbar-custom .nav-item .nav-link.active {
-	color: #F05358;
+	color: #2f2c3d;
 }
 
 /* Dropdown Menu */
@@ -703,7 +703,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .dropdown-item:hover .item-text {
-	color: #F05358;
+	color: #2f2c3d;
 }
 
 .navbar-custom .dropdown-items-divide-hr {
