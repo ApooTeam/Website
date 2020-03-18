@@ -625,7 +625,11 @@ input[type='checkbox'] {
 /*     03. Navigation     */
 /**************************/
 .navbar-custom {
+<<<<<<< HEAD
 	background-color: #dc3545;
+=======
+	background-color: #2c2b30;
+>>>>>>> 37d13286a8895a75d9f0aab90780b2ffa6bed600
 	box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.1);
 	font: 700 0.75rem/2rem "Montserrat", sans-serif;
 	transition: all 0.2s;
