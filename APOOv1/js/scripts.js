@@ -1,6 +1,6 @@
-/* Template: Juno - Multipurpose Landing Page Pack
-   Author: InovatikThemes
-   Created: Mar 2019
+/* Website: APOO
+   Author: APOO Team
+   Created: Mar 2020
    Description: Custom JS file
 */
 
